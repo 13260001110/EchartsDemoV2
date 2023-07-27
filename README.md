@@ -1,4 +1,4 @@
-# pmo-echarts
+# echarts  demo V2
 
 ## Project setup
 ```
